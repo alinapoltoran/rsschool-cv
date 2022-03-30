@@ -1,7 +1,7 @@
 # Alina Poltoran
 
 **Contacs:**
-+ Discord: alinapoloran 
++ Discord: alinapoltoran 
 + E-mail: al.poltoran@mail.ru 
 + Tel: +375295344917 
 
@@ -13,10 +13,12 @@ I literally didn't think two months ago that I could start learning JavaScript, 
 
 **Code Example**
 
+```
 function multiply (a, b){
     return a*b;
 }
 multiply();
+```
 
 **Work Experience:**
 
