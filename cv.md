@@ -1,9 +1,9 @@
 # Alina Poltoran
 
 **Contacs:**
-+ Discord: alinapoloran 1
-+ E-mail: al.poltoran@mail.ru 2
-+ Tel: +375295344917 3
++ Discord: alinapoloran 
++ E-mail: al.poltoran@mail.ru 
++ Tel: +375295344917 
 
 **About Me**
 
