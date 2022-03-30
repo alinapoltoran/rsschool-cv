@@ -24,6 +24,14 @@ multiply();
 
 + RSSchool-CV
 
+**Education and courses:**
+
+*Nothing*
+
+**Language:**
+
++ Russian - native
++ English - level A2
 
 
 
