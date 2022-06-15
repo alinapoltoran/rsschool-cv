@@ -1,0 +1,98 @@
+body{
+    margin: 20px 20px;
+    font-family: Georgia, 'Times New Roman', Times;
+}
+li {
+   list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.header_image{
+    float: left;
+}
+.image{
+    width: 400px;
+}
+.header_container{
+    height: 400px;
+}
+.header_navigation{
+    padding-top: 100px;
+    text-align: right;
+    font-size: 20px;
+}
+.navigation li{
+    display: inline-block;
+    text-align: center;
+}
+.navigation a{
+    display: block;
+    padding: 5px 20px;
+}
+.navigation a:hover{
+    color: blue;
+    border-bottom: 2.5px solid;
+}
+.header_name{
+    padding-top: 20px;
+    text-align: right;
+}
+h1{
+    font-size: 60px;
+}
+.header_name p{
+    font-size: 28px;
+}
+main{
+    padding-top: 50px;
+   display: grid;
+   grid-template-columns: 400px 200px;
+   grid-template-rows: 1fr 1fr 1fr;
+   grid-column-gap: 200px;
+}
+h2{
+    text-align: center;
+}
+.section_about{
+    grid-area: about;
+}
+.section_skills{
+    grid-area: skills;
+}
+.section_code{
+    grid-area: code;
+}
+.section_project{
+    grid-area: project;
+}
+.section_language{
+    grid-area: language;
+}
+main{
+    grid-template-areas:
+    "about skills"
+    "about code"
+    "language project"
+    ;
+}
+.footer_container{
+    height: 70px;
+}
+.footer_svg{
+    width: 150px;
+    float: right;
+}
+.contact li{
+    display: inline-block;
+    text-align: center;
+    padding-left: 120px;
+}
+.contact a{
+    display: block;
+    padding: 0px 70px;
+    font-size: 20px;
+}
+.image_github{
+    float: left;
+}
