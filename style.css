@@ -1,5 +1,6 @@
 body{
-    margin: 20px 20px;
+    height: 1600px;
+    margin: 20px 100px;
     font-family: Georgia, 'Times New Roman', Times;
 }
 li {
@@ -44,55 +45,127 @@ h1{
 .header_name p{
     font-size: 28px;
 }
-main{
-    padding-top: 50px;
-   display: grid;
-   grid-template-columns: 400px 200px;
-   grid-template-rows: 1fr 1fr 1fr;
-   grid-column-gap: 200px;
-}
 h2{
-    text-align: center;
+    text-align: right;
 }
-.section_about{
-    grid-area: about;
-}
-.section_skills{
-    grid-area: skills;
-}
-.section_code{
-    grid-area: code;
-}
-.section_project{
-    grid-area: project;
-}
-.section_language{
-    grid-area: language;
-}
-main{
-    grid-template-areas:
-    "about skills"
-    "about code"
-    "language project"
-    ;
-}
-.footer_container{
-    height: 70px;
-}
-.footer_svg{
-    width: 150px;
-    float: right;
-}
-.contact li{
-    display: inline-block;
-    text-align: center;
-    padding-left: 120px;
-}
-.contact a{
-    display: block;
-    padding: 0px 70px;
+.about p{
+    text-align: justify;
     font-size: 20px;
 }
+.footer_svg{
+    width: 300px;
+    float: right;
+    clear: right;
+}
+.contact a{
+    font-size: 20px;
+}
+.contact li{
+    margin-bottom: 0.7em;
+}
 .image_github{
+    width: 300px;
+    padding-right: 300px;
+    float: right;
+}
+main{
+    margin-top: 100px;
+    display: grid;
+    height: 800px;
+}
+
+.skills{
+    position: relative;
+    top: -430px;
+}
+.skills h2{
+    text-align: left;
+}
+.language h2{
+    text-align: left;
+    font-size: 20px;
+}
+.language li{
+    text-align: justify;
+    list-style: circle;
+    margin-bottom: 0.7em;
+    font-size: 20px;
+}
+.section_about{
+    width: 680px;
+    margin-left: 480px;
+}
+.about h2{
+    font-size: 25px;
+}
+.skills li{
+    font-size: 20px;
+    margin-bottom: 1.5em;
+}
+.skills ul{
+    padding: 0;
+    margin: 0;
+}
+.code{
+    position: relative;
+    top: -240px;
+    width: 680px;
+    margin-left: 480px;
+}
+.html_icon{
     float: left;
+    clear: left;
+    margin-top: -7px;
+    padding-right: 10px;
+}
+.css_icon{
+    float: left;
+    clear: left;
+    margin-top: -8px;
+    padding-right: 10px;
+}
+.course{
+    position: relative;
+    top: -320px;
+}
+.course h2{
+    text-align: left;
+}
+.course ul{
+    padding: 0;
+    margin: 0;
+}
+.course li{
+    font-size: 20px;
+}
+.project{
+    position: relative;
+    top: -410px;
+}
+.project h2{
+    text-align: left;
+}
+.project ul{
+    padding: 0;
+    margin: 0;
+}
+.project li{
+    font-size: 20px;
+}
+.contact {
+    padding: 0;
+    margin: 0;
+}
+pre{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    line-height: 20px;
+    background: rgb(31, 31, 46);
+    box-sizing: border-box;
+}
+pre code{
+    padding: 10px;
+    color: #fff;
+    text-align: left;
 }
