@@ -2,6 +2,7 @@ body{
     height: 1600px;
     margin: 20px 100px;
     font-family: Georgia, 'Times New Roman', Times;
+    background: rgb(100, 116, 68);
 }
 li {
    list-style-type: none;
