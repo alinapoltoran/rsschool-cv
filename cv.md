@@ -4,14 +4,17 @@
 * Tel: +375(29)534-49-17
 * E-mail: al.poltoran@mail.ru
 * Discord: alina_poltoran
+
 *****
 ## About myself:
 I want to learn JavaScript. I started learning this language recently and decided to learn it together with RSSchool. In the future, I want to develop in the field of programming.
+
 *****
 ## Skills:
 * HTML - 80%
 * CSS - 60%
 * JavaScript - 10%
+
 *****
 ## Example code:
 ```
@@ -25,9 +28,11 @@ function solution(str){
                 return result;
               }
 ```
+
 *****
 ## Work experience:
 * Nothing yet...
+
 *****
 ## Education and courses:
 * Code Basics:
@@ -38,6 +43,7 @@ function solution(str){
      + HTML
      + CSS
 * RSSchool Pre-school FE/JS
+
 *****
 ## Languages:
 * Russian - native
