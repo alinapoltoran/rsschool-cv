@@ -25,3 +25,21 @@ function solution(str){
                 return result;
               }
 ```
+*****
+## Work experience:
+* Nothing yet..*
+*****
+## Education and courses:
+* Code Basics:
+     + HTML
+     + CSS
+     + JavaScript
+* WebDev video course:
+     + HTML
+     + CSS
+* RSSchool Pre-school FE/JS
+*****
+## Languages:
+* Russian - native
+* English - A1   
+
