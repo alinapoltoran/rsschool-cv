@@ -27,7 +27,7 @@ function solution(str){
 ```
 *****
 ## Work experience:
-* Nothing yet..*
+* Nothing yet...
 *****
 ## Education and courses:
 * Code Basics:
